@@ -1,2 +1,2 @@
-# pub-2024-hippocampal-seizure-forecasting
-Code for generating figures for Khambhati, et al. (2024).
+# Hippocampal network activity forecasts epileptic seizures
+Code for analyses and generating figures for _*Khambhati AN, Chang EF, Baud MO & Rao VR. (2024). Hippocampal network activity forecasts epileptic seizures. [ACCEPTED IN PRINCIPLE].*_
